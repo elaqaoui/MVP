@@ -1,0 +1,26 @@
+MVP
+
+Progress
+Progress Rating: 7/10
+Explanation: This week, we made significant strides in several areas of our project. Our progress has been steady, but we encountered a few hurdles that prevented us from achieving all our weekly goals. Despite these challenges, we managed to stay on track with the majority of our tasks and have laid a solid foundation for the upcoming weeks.
+Completed Parts:
+UI Design: The user interface design has been finalized and implemented. The main screens, including the home, profile, and settings pages, are fully functional and visually aligned with our initial design prototypes.
+Backend Integration: We successfully integrated the backend with the frontend for user authentication. Users can now sign up, log in, and manage their profiles.
+Basic Functionality: Core features such as data input, retrieval, and display have been implemented. This includes form submissions and basic data visualization.
+Incomplete Aspects:
+Advanced Features: Some advanced functionalities, such as real-time notifications and in-app messaging, are still under development.
+Testing: Comprehensive testing, including unit tests and user acceptance testing, is ongoing. We aim to address bugs and improve stability.
+Performance Optimization: We are yet to fully optimize the application for performance, particularly in terms of load times and responsiveness on various devices.
+
+Challenges
+Technical Challenge: The most difficult technical challenge we faced this week was integrating third-party APIs for real-time data updates. Our application relies heavily on external data sources to provide live updates, and ensuring seamless integration posed several issues. The primary challenge was handling asynchronous data fetching while maintaining smooth user experience. We encountered problems with data consistency and synchronization across different parts of the application.
+To address this, we implemented a state management library that allows better control over data flow and consistency. However, debugging asynchronous operations and ensuring that the application state remains consistent required considerable time and effort. We also had to optimize our API calls to reduce latency and handle potential errors gracefully. This involved writing custom error-handling middleware and setting up retry mechanisms for failed requests.
+Non-Technical Challenge: The most challenging non-technical issue was coordinating the team’s efforts while working remotely. With team members spread across different time zones, scheduling meetings and ensuring effective communication became increasingly difficult. We relied heavily on asynchronous communication tools like Slack and project management platforms like Trello, but this sometimes led to misunderstandings and delayed responses.
+To mitigate this, we established clearer communication protocols and set up regular check-ins to ensure everyone was aligned. We also created detailed documentation of our workflows and decisions to minimize confusion. Encouraging a culture of over-communication and making sure everyone felt comfortable reaching out for help or clarification were key steps in overcoming this challenge. While it remains a work in progress, these measures have helped improve our coordination and productivity.
+
+Screenshots
+Screenshot 1: Home Screen
+Screenshot 2: User Profile Page
+
+
+
